@@ -31,9 +31,16 @@ jobs:
       - name: nojahoon's metrics build
         uses: yonsei-app-dev-club/metrics@latest
         with:
-          token: ${{ secrets.nojahoon_METRICS_TOKEN }}
+          token: ${{ secrets.NOJAHOON_METRICS_TOKEN }}
           filename: github-metrics-nojahoon.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
+      - name: HYEONGJUN's metrics build
+        uses: yonsei-app-dev-club/metrics@latest
+        with:
+          token: ${{ secrets.HYEONGJUN_METRICS_TOKEN }}
+          filename: github-metrics-hyeongjun.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
