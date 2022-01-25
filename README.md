@@ -7,5 +7,5 @@
 ![Metrics](/github-metrics-serithemage.svg)
 
 
-### ![노재훈](https://avatars.githubusercontent.com/u/59651691?s=32&v=4) [노재훈](https://github.com/nojahoon) 
+### [노재훈](https://github.com/nojahoon) 
 ![Metrics](/github-metrics-nojahoon.svg)
