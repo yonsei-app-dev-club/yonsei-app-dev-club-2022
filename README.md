@@ -9,3 +9,6 @@
 
 ### [노재훈](https://github.com/nojahoon) 
 ![Metrics](/github-metrics-nojahoon.svg)
+
+### ![조형준](https://avatars.githubusercontent.com/u/77392219?s=32&v=4) [조형준](https://github.com/hyeongjun-hub) 
+![Metrics](/github-metrics-hyeongjun.svg)
