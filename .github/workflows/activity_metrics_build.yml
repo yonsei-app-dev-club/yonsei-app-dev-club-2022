@@ -21,5 +21,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Metrics embed
-        uses: lowlighter/metrics@v3.18
+        uses: yonsei-app-dev-club/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
 
