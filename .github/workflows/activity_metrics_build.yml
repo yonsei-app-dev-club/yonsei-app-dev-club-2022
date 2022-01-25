@@ -20,12 +20,20 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Metrics embed
+      - name: Dohyun's metrics build
         uses: yonsei-app-dev-club/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-serithemage.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
+      - name: nojahoon's metrics build
+        uses: yonsei-app-dev-club/metrics@latest
+        with:
+          token: ${{ secrets.nojahoon_METRICS_TOKEN }}
+          filename: github-metrics-nojahoon.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
