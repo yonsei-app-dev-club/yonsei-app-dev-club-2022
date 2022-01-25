@@ -52,3 +52,19 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+      - name: minseongkim97's metrics build
+        uses: yonsei-app-dev-club/metrics@latest
+        with:
+          token: ${{ secrets.MINSEONGKIM97_METRICS_TOKEN }}
+          filename: github-metrics-minseongkim97.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      - name: yhp2205's metrics build
+        uses: yonsei-app-dev-club/metrics@latest
+        with:
+          token: ${{ secrets.YHP2205_METRICS_TOKEN }}
+          filename: github-metrics-yhp2205.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year          
