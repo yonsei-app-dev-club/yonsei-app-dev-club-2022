@@ -24,6 +24,7 @@ jobs:
         uses: yonsei-app-dev-club/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-serithemage.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
