@@ -12,3 +12,7 @@
 
 ### ![조형준](https://avatars.githubusercontent.com/u/77392219?s=32&v=4) [조형준](https://github.com/hyeongjun-hub) 
 ![Metrics](/github-metrics-hyeongjun.svg)
+
+
+### ![도정민](https://avatars.githubusercontent.com/u/49096513?s=32&v=4) [도정민](https://github.com/silverstar0727) 
+![Metrics](/github-metrics-silverstar0727.svg)
