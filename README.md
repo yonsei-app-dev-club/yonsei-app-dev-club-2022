@@ -25,3 +25,6 @@
 
 ### [손대훈](https://github.com/superson99) 
 ![Metrics](/github-metrics-superson99.svg)
+
+### [장용수](https://github.com/max1496) 
+![Metrics](/github-metrics-max1496.svg)
