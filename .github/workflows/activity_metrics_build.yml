@@ -4,7 +4,7 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
+  # 6시간에 한 번 씩 빌드 수행
   schedule:
     - cron: '0 */6 * * *'
 
