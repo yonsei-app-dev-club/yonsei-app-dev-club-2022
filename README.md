@@ -4,27 +4,27 @@
 ## 참가 멤버
 
 ### ![정도현](https://avatars.githubusercontent.com/u/3435720?s=32&v=4) [정도현](https://github.com/serithemage) 
-![Metrics](/github-metrics-serithemage.svg)
+[![Metrics](/github-metrics-serithemage.svg)](https://github.com/serithemage)
 
 
 ### [노재훈](https://github.com/nojahoon) 
-![Metrics](/github-metrics-nojahoon.svg)
+[![Metrics](/github-metrics-nojahoon.svg)](https://github.com/nojahoon)
 
 ### ![조형준](https://avatars.githubusercontent.com/u/77392219?s=32&v=4) [조형준](https://github.com/hyeongjun-hub) 
-![Metrics](/github-metrics-hyeongjun.svg)
+[![Metrics](/github-metrics-hyeongjun.svg)](https://github.com/hyeongjun-hub) 
 
 
 ### ![도정민](https://avatars.githubusercontent.com/u/49096513?s=32&v=4) [도정민](https://github.com/silverstar0727) 
-![Metrics](/github-metrics-silverstar0727.svg)
+[![Metrics](/github-metrics-silverstar0727.svg)](https://github.com/silverstar0727) 
 
 ### ![김민성](https://avatars.githubusercontent.com/u/68727819?s=32&v=4) [김민성](https://github.com/minseongkim97) 
-![Metrics](/github-metrics-minseongkim97.svg)
+[![Metrics](/github-metrics-minseongkim97.svg)]((https://github.com/minseongkim97) 
 
 ### [박영현](https://github.com/yhp2205) 
-![Metrics](/github-metrics-yhp2205.svg)
+[![Metrics](/github-metrics-yhp2205.svg)](https://github.com/yhp2205) 
 
 ### [손대훈](https://github.com/superson99) 
-![Metrics](/github-metrics-superson99.svg)
+[![Metrics](/github-metrics-superson99.svg)](https://github.com/superson99) 
 
 ### [장용수](https://github.com/max1496) 
-![Metrics](/github-metrics-max1496.svg)
+[![Metrics](/github-metrics-max1496.svg)](https://github.com/max1496) 
