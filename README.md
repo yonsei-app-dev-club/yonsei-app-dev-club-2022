@@ -18,7 +18,7 @@
 [![Metrics](/github-metrics-silverstar0727.svg)](https://github.com/silverstar0727) 
 
 ### ![김민성](https://avatars.githubusercontent.com/u/68727819?s=32&v=4) [김민성](https://github.com/minseongkim97) 
-[![Metrics](/github-metrics-minseongkim97.svg)]((https://github.com/minseongkim97) 
+[![Metrics](/github-metrics-minseongkim97.svg)](https://github.com/minseongkim97) 
 
 ### [박영현](https://github.com/yhp2205) 
 [![Metrics](/github-metrics-yhp2205.svg)](https://github.com/yhp2205) 
