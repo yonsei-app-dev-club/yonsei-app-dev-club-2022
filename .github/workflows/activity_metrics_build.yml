@@ -68,14 +68,14 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year          
-      - name: superson99's metrics build
-        uses: yonsei-app-dev-club/metrics@latest
-        with:
-          token: ${{ secrets.SUPERSON99_METRICS_TOKEN }}
-          filename: github-metrics-superson99.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+#      - name: superson99's metrics build
+#        uses: yonsei-app-dev-club/metrics@latest
+#        with:
+#          token: ${{ secrets.SUPERSON99_METRICS_TOKEN }}
+#          filename: github-metrics-superson99.svg
+#          base: ""
+#          plugin_isocalendar: yes
+#          plugin_isocalendar_duration: full-year
       - name: MAX1496's metrics build
         uses: yonsei-app-dev-club/metrics@latest
         with:
